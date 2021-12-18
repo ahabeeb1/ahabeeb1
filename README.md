@@ -1,6 +1,6 @@
 - 👋 Hello, My name is Abdulla Habeeb
 - 👀 I’m studying computer science @ UGA 
-- 🌱 I’m currently learning Java, AWS, Architecture
+- 🌱 I’m currently learning Java, AWS, Computer Architecture, Numerical Simulations in Engineering, Computer Networks
 - 📫 You can reach me on my linkedin: https://www.linkedin.com/in/abdulla-habeeb/
 
 <!---

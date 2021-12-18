@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @ahabeeb1
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning C++, Data Structures and Algorithms
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hello, My name is Abdulla Habeeb
+- 👀 I’m studying computer science @ UGA 
+- 🌱 I’m currently learning Java, AWS, Architecture
+- 📫 You can reach me on my linkedin: https://www.linkedin.com/in/abdulla-habeeb/
 
 <!---
 ahabeeb1/ahabeeb1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

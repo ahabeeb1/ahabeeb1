@@ -1,3 +1,3 @@
-# 👋 Abdulla  
+# 👋 Abdullah  
 ⚡ data • ai • cloud
 

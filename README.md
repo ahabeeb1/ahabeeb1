@@ -1,8 +1,10 @@
 # 👋 Abdullah  
 ⚡ data • ai • cloud
 
-checkout my projects
+# 👋 Abdullah
+⚡ data • ai • cloud
 
-spiff-app.com
+Check out my projects:
 
-salahi.app
+- [spiff-app.com](https://spiff-app.com)
+- [salahi.app](https://salahi.app)
